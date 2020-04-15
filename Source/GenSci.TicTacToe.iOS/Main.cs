@@ -1,6 +1,11 @@
-﻿using UIKit;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace GenSci.TicTacToe
+using Foundation;
+using UIKit;
+
+namespace GenSci.TicTacToe.iOS
 {
     public class Application
     {
